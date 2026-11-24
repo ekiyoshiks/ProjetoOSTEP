@@ -1,0 +1,6 @@
+latencia: medianas de 21 execucoes entre 155.49 e 156.87 ns (amplitude 1.38 ns)
+latencia 110% vs 0%: -0.55 ns (-0.35%)
+temperatura media: controle 55.2 C | experimentais [66.6, 75.9, 78.5] | media exp 73.7 C
+potencia media (custo): controle 9.15 W | agressor [16.34, 19.28, 19.01] | media 18.21 W (+99%)
+latencia da vitima no custo (media, ns): controle 116.5, baixa 148.6, media 164.7, alta 187.8
+temperatura inicial (mediana dos 30 s iniciais): [('Temp. controle', 47.0), ('Temp. baixa', 49.0), ('Temp. media', 57.0), ('Temp. alta', 78.0), ('Custo controle', 55.0), ('Custo baixa', 66.0), ('Custo media', 65.0), ('Custo alta', 65.0)]
